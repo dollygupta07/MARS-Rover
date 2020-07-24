@@ -1,5 +1,5 @@
 
- #Welcome to **Pathfinding Visulaizer** for **Mars Rover**.
+ # Welcome to **Pathfinding Visualizer** for **Mars Rover**.
  I hope that you will enjoy playing around with this tool. You can access it here: https://sathvikabm.github.io/MARS-Rover/
 
 This application supports the following algorithms:
