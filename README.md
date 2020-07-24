@@ -1,14 +1,14 @@
-#Pathfinding Visualizer
+**Pathfinding Visualizer**
 
-Welcome to Mars Rover. I hope that you enjoy playing around with this tool. You can access it here: https://sathvikabm.github.io/MARS-Rover/
+Welcome to **Mars Rover**. I hope that you will enjoy playing around with this tool. You can access it here: https://sathvikabm.github.io/MARS-Rover/
 
 This application supports the following algorithms:
 
-1. Dijkstra's Algorithm (weighted)
+- Dijkstra's Algorithm (weighted)
 
-2. A Search* (weighted)
+-  A Search* (weighted)
 
-3. Greedy Best-first Search (weighted)
+- Greedy Best-first Search (weighted)
 
 4. Swarm Algorithm (weighted)
 
